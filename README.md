@@ -10,7 +10,7 @@ However the size of even these `ffprobe` binaries is north of 70 mb after unzipp
 
 This repo hosts compressed versions of these binaries using upx e.g. `upx --best --lzma ffprobe`
 
-This reduces the size considerable i.e. from 78 mb -> 20mb while maintaining the same functinality.
+This reduces the size considerably i.e. from 78 mb -> 20mb while maintaining the same functinality.
 
 ## Currently Supported OS's
 
