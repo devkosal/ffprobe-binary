@@ -14,4 +14,6 @@ This reduces the size considerably i.e. from 78 mb -> 20mb while maintaining the
 
 ## Currently Supported OS's
 
+These are the currently supported OSs but you can use upx the same way `upx --best --lzma ffprobe` to create your own versions.
+
 - linux-64
